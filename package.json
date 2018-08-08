@@ -1,0 +1,16 @@
+{
+  "name": "react-starter-project",
+  "version": "1.0.0",
+  "description": "Boilerplate configuration using webpack, eslint and react",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "webpack",
+    "eslint",
+    "react"
+  ],
+  "author": "Anna Holland-Smith",
+  "license": "ISC"
+}
